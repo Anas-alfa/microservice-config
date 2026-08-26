@@ -1,2 +1,3 @@
 spring:
-  name: application
+  application:
+    name: application

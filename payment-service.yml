@@ -1,3 +1,6 @@
 spring:
   application:
     name: PAYMENT-SERVICE
+
+
+# This it the payment service url if you dont know which url you are looking into then please read this message

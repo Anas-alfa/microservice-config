@@ -3,4 +3,4 @@ spring:
     name: EMPLOYEE-SERVICE-DEV
 
 
-  url: an ye dev ka url hai konsa dev, employe-service wala dev samjha kya
+  message: an ye dev ka url hai konsa dev, employe-service wala dev samjha kya

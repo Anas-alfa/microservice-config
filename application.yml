@@ -3,4 +3,4 @@ spring:
     name: application
 
 
-# main sabse main application hu re
+message: main sabse main application hu re
